@@ -1,0 +1,15 @@
+{
+  "control": [
+    { "VTOY_DEFAULT_MENU_MODE": "1" }
+  ],
+  "menu_alias": [
+    { "dir": "/OS",         "alias": "Operating Systems" },
+    { "dir": "/Firewall",   "alias": "Firewall (pfSense, OPNsense)" },
+    { "dir": "/Rescue",     "alias": "Rescue and Recovery (WinPE, Hiren's, SystemRescue, Rescuezilla)" },
+    { "dir": "/Security",   "alias": "Security (Kali)" },
+    { "dir": "/Forensics",  "alias": "Forensics" },
+    { "dir": "/Monitoring", "alias": "Monitoring" },
+    { "dir": "/Wipe",       "alias": "Disk Wipe" },
+    { "dir": "/Hardware",   "alias": "Hardware Test (Memtest86+)" }
+  ]
+}

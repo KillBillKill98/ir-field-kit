@@ -1,0 +1,18 @@
+Incident Response Notes
+
+Case ID:
+Client code:
+Authorization / RoE reference:
+Client security contact:
+Analyst:
+Start (UTC):
+
+Timeline (UTC, action, host, result):
+
+Findings:
+
+Actions taken on host:
+
+Evidence collected (see evidence_log.csv):
+
+Handoff:

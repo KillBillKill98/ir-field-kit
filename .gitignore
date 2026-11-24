@@ -1,0 +1,16 @@
+# Never commit binaries, images, evidence, or secrets
+*.iso
+*.img
+*.img.gz
+*.vhd
+*.vhdx
+*.dmp
+*.raw
+*.mem
+*.E01
+*.zip
+*.exe
+Cases/
+Evidence/
+*recovery*
+*.bek
